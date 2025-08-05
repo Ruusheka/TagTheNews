@@ -2,7 +2,7 @@
 
 **TagTheNews** is a smart AI-powered web app that classifies news headlines into relevant categories such as **politics**, **technology**, **sports**, **business**, and more — using zero-shot learning with Hugging Face Transformers. The app visualizes confidence levels and provides an elegant Gradio UI for user interaction.
 
-![TagTheNews Screenshot](image/pic2.png)
+![TagTheNews Screenshot](assets/pic2.png)
 
 ---
 
